@@ -1,0 +1,4 @@
+def multiplication(a,b):
+    c= a*b
+    return (c)
+print( "multipliication of two numbers", multiplication(2,3))
